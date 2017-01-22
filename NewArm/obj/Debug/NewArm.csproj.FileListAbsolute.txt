@@ -1,0 +1,11 @@
+E:\CProjects\NewArm\NewArm\bin\Debug\NewArm.exe.config
+E:\CProjects\NewArm\NewArm\bin\Debug\NewArm.exe
+E:\CProjects\NewArm\NewArm\bin\Debug\NewArm.pdb
+E:\CProjects\NewArm\NewArm\obj\Debug\NewArm.Form1.resources
+E:\CProjects\NewArm\NewArm\obj\Debug\NewArm.Properties.Resources.resources
+E:\CProjects\NewArm\NewArm\obj\Debug\NewArm.csproj.GenerateResource.Cache
+E:\CProjects\NewArm\NewArm\obj\Debug\NewArm.exe
+E:\CProjects\NewArm\NewArm\obj\Debug\NewArm.pdb
+E:\CProjects\NewArm\NewArm\obj\Debug\NewArm.csprojResolveAssemblyReference.cache
+E:\CProjects\NewArm\NewArm\bin\Debug\Newtonsoft.Json.dll
+E:\CProjects\NewArm\NewArm\bin\Debug\Newtonsoft.Json.xml
